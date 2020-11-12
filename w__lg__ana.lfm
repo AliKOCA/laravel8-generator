@@ -15,7 +15,7 @@ object Form1: TForm1
     Top = 3
     Width = 744
     TabOrder = 0
-    Text = '/media/ali/asg_prg_ext4/AsGPrgExt4/www/php/framework/laravel/08/laravel-generator/'
+    Text = '/media/ali/laravel/08/laravel-generator/'
   end
   object Label1: TLabel
     Left = 8
