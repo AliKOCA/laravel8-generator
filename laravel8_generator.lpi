@@ -64,7 +64,7 @@
   <CompilerOptions>
     <Version Value="11"/>
     <Target>
-      <Filename Value="laravel8_generator"/>
+      <Filename Value="laravel8_generator.bin"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
